@@ -1,4 +1,4 @@
-##Lucky Osaigbovo's 
+Lucky Osaigbovo's 
 IT and Cybersecurity Project Portfolio 🔐
 
 I'm a cybersecurity enthusiast focused on practical problem-solving. I'm driven by a passion for cybersecurity and the challenge of building robust defenses against the ever evolving threats landscape. My projects cut across vulnerability management, threat detection, and security operations. Dive in to see how I tackle real-world security challenges and improve defensive strategies.
